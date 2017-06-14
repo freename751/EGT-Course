@@ -1,0 +1,16 @@
+<Cinema>
+	<Screening>
+		<FilmName>SWC</FilmName>
+		<Hall id="1">Blue</Hall>
+		<Capacity>200</Capacity>
+		<SoldTickets>120</SoldTickets>
+		<PricePerTicket>12</PricePerTicket>
+	</Screening>
+	<Screening>
+		<FilmName>SW</FilmName>
+		<Hall id="4">Red</Hall>
+		<Capacity>100</Capacity>
+		<SoldTickets>99</SoldTickets>
+		<PricePerTicket>10</PricePerTicket>
+	</Screening>
+</Cinema>
