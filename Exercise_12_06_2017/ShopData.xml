@@ -1,0 +1,8 @@
+<inventory>
+	<item id="1">
+		<make>Smth</make>
+		<model>Whatever</model>
+		<quantity>13</quantity>
+		<serialnumber>187489</serialnumber>
+	</item>
+</inventory>
